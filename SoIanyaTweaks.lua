@@ -7,7 +7,7 @@ local randomStuffEnabled = true;
 local function PersonalTweaks()
 	PlayerPowerBarAlt:SetPoint("BOTTOM", 0, 220);
 	CastingBarFrame:SetPoint("BOTTOM", 0, 220);
-end
+end 
 
 function SolanyaTweaksMixin:OnLoad()
 	-- Guild count button
